@@ -252,6 +252,11 @@ Prefab:
       propertyPath: explosionSound
       value: 
       objectReference: {fileID: 1244106990}
+    - target: {fileID: 54216257822897352, guid: 6286352776fdf4d6e9fa6c20b6485cb1,
+        type: 2}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6286352776fdf4d6e9fa6c20b6485cb1, type: 2}
   m_IsPrefabParent: 0
